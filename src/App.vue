@@ -20,7 +20,7 @@
               cols="12"
             >
               <h1 class="display-1 font-weight-thin mb-4">
-                HCI와 UX 평가
+                HCI와 UX 평가 끝!
               </h1>
             </v-col>
           </v-row>
