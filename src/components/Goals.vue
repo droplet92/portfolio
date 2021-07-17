@@ -22,7 +22,7 @@
           <span class="title font-weight-light">협업</span>
         </v-card-title>
         <v-card-text class="headline font-weight-bold">
-          팀원들과 잘 협업하는 것
+          팀원들과 잘 협업하는 것것것
         </v-card-text>
       </v-card>
     </v-col>
